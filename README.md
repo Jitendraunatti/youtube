@@ -15,8 +15,8 @@
 
 - SCRIPT URL:- https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=Nq2wYlWFucg
 
-- EXTRACT JUST THE PORTION "**NQ2WYLWFUCG**" FROM THE ORIGINAL YOUTUBE URL AND SET IT UP IN "https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=Nq2wYlWFucg".
-- THIS URL WORKS ONLY FOR  LIVE STREAMING VIDEOS.
+- EXTRACT JUST THE PORTION "**NQ2WYLWFUCG**" FROM THE ORIGINAL YOUTUBE URL AND SET IT UP IN "https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=**Nq2wYlWFucg**".
+- THIS URL WORKS ONLY FOR 🔴LIVE STREAMING VIDEOS.
 
 - THIS LINK IS FUNCTIONAL UNTIL CLOUDFLARE DON'T INCUR ANY CHARGES FROM ME.
 

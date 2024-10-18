@@ -14,6 +14,11 @@
 - YT ORIGINAL URL:- https://www.youtube.com/watch?v=Nq2wYlWFucg
 
 - SCRIPT URL:- https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=Nq2wYlWFucg
+1. **Backup URL 1:**  
+   [https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=Nq2wYlWFucg](https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=Nq2wYlWFucg)
+
+2. **Backup URL 2:**  
+   [https://youtube.jitendra-unatti.workers.dev/wanda.m3u8?id=Nq2wYlWFucg](https://youtube.jitendra-unatti.workers.dev/wanda.m3u8?id=Nq2wYlWFucg)
 
 - EXTRACT JUST THE PORTION "**NQ2WYLWFUCG**" FROM THE ORIGINAL YOUTUBE URL AND SET IT UP IN "https://youtube.jitendraunatti.workers.dev/wanda.m3u8?id=Nq2wYlWFucg".
 - THIS URL WORKS ONLY FOR 🔴LIVE STREAMING VIDEOS.
